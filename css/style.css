@@ -1,0 +1,66 @@
+/*
+  Desktop First style 
+*/
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+em,
+img,
+strong,
+dl,
+dt,
+dd,
+ol,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 12px;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+.wrap {
+  background-color: #f1f3f5;
+}
+
+.cat_img {
+  width: 400px;
+  height: 400px;
+  background-color: #acacac;
+}
+
+@media only screen and (max-width: 768px) {
+  /* 모바일에서 사용될 css */
+}
