@@ -19,7 +19,8 @@ jquery	3.3.1
     
 ### 4. 기능 
 - https://cataas.com/ REST API 로 cat 이미지 뿌려줌 
-- Lazy Loading으로 최적화 
+- 최적화를 위해 Intersection Observer API 사용하여 Lazy Loading 구현 
 - 스크롤 마지막일때 이미지 10개씩 로드 
+- LazyLoading 다른 작업에서도 사용 할 수 있도록 분리함  
 
 ### 5. 결과 화면
