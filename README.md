@@ -1,4 +1,4 @@
-# javascript로 메모 만들기
+# javascript로  만들기
 
 ### 1. 개발 환경
 - HTML5
