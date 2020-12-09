@@ -1,7 +1,7 @@
 # javascript로  만들기
 
 ### 1. 개발 환경
-- HTML5
+- HTML5   
 - Javascript
 - CSS
 
